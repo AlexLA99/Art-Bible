@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Art Bible
 
 You can use the [editor on GitHub](https://github.com/AlexLA99/Art-Bible/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+An Art Bible, or Style Guide is a document created to communicate to the art team exactly what style the art assets should match
 
 ### Markdown
 
