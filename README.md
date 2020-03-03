@@ -6,7 +6,7 @@ I am [Alex López](https://github.com/AlexLA99), student of the [Bachelor’s De
 
 ### What is an Art Bible?
 
-An Art Bible is a document created to communicate to the art team exactly what style the art assets should match. In other words, is a document that describes the style of the game.
+An Art Bible is a document created to communicate to the art team exactly what style the art assets should match. In other words, is a document that describes the style of the game. This document helps to avoid mixing different styles of art and helps the artist know which direction the art takes and makes everybody follow an established line.
 
 ```markdown
 Syntax highlighted code block
