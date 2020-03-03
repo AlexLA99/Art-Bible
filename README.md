@@ -2,11 +2,11 @@
 
 You can use the [editor on GitHub](https://github.com/AlexLA99/Art-Bible/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-An Art Bible, or Style Guide is a document created to communicate to the art team exactly what style the art assets should match
+I am [Alex López](https://github.com/AlexLA99), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s subject Project 2, under supervision of lecturer [Ramon Santamaria](https://github.com/raysan5).
 
-### Markdown
+### What is an Art Bible?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+An Art Bible is a document created to communicate to the art team exactly what style the art assets should match. In other words, is a document that describes the style of the game.
 
 ```markdown
 Syntax highlighted code block
