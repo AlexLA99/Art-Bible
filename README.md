@@ -59,32 +59,39 @@ Decide in which things more effort will be spent and in which ones is better to 
 
 **Camera**
 
+The camera has to be clearly defined, the angle, field of view, the person and the position. It helps a lot to determine the postion of props and characters. Depending on the camera the level of inmersion will be different and it can express different emotions.
+
+![Image](docs/mario camera.jpg)
 
 
-```markdown
-Syntax highlighted code block
+**Color Palette**
 
-# Header 1
-## Header 2
-### Header 3
+This is one of the most essential parts of the document. Here you  have to talk about colour saturation, swatches, tones, hues, and why have been choosen. They help to differentiate the sceenes, objects, characters, backgrounds, etc. Also they express emotions, and abstract things like danger.
 
-- Bulleted
-- List
+![Image] (docs/sonic colour.jpg)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+**Atmosphere**
 
-[Link](url) and ![Image](src)
-```
+Here you have to define the day, night and all the weather. Also define the emotions that provoque the scenes and colours.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Image] (docs/moods2.jpg)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlexLA99/Art-Bible/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+**User Interface**
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The UI is an aspect that can change de game a lot, from a good one to a horrible one. Here you have to define how complex will be the UI and where the elements will be placed.
+
+![Image] (docs/wow ui.jpg)
+
+![Image] (docs/sonic ui.jpg)
+
+
+**Technical Guidelines**
+
+Here you have to define the format of the files, the nomenclature and which programs will be used for each task.
+
+![Image] (docs/tecguid.jpg)
+
+
