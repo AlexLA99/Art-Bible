@@ -8,6 +8,35 @@ I am [Alex López](https://github.com/AlexLA99), student of the [Bachelor’s De
 
 An Art Bible is a document created to communicate to the art team exactly what style the art assets should match. In other words, is a document that describes the style of the game. This document helps to avoid mixing different styles of art and helps the artist know which direction the art takes and makes everybody follow an established line.
 
+### Functionality
+
+**Maintain consistency**
+**Show how the game will look**
+**Help new workers join the proyect**
+**Help the art team understand the direction of artand the decisions done**
+**Help in marketing**
+
+### Points it must consider
+
+**Who is the target of the game?**
+**All artists have to understand art so that they work in the same style even the newcomers**
+**It will be used?**
+**Is the investor able to understand the decisions of the art department?**
+
+### When is the moment?
+
+The ideal moment is just after the GDD, before starting the production of the game. Doing so will save a lot of time unnecessary assets and wasted effort.
+
+### Things that should be included
+
+**Art Style**
+It is going to be a game with realistic aesthetics or it will be more cartoonish? What are the pproportion of the buildings and the characters?
+[Image](docs/art style.jpg)
+
+**Character Art**
+The characters must be created according to the style defined, and should be differenciable from the other games.The main points are: posing, expressions, colour palette, height scale comparison, costume, and style and construction.
+[Image](docs/character style1.jpg)
+
 ```markdown
 Syntax highlighted code block
 
