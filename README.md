@@ -31,11 +31,11 @@ The ideal moment is just after the GDD, before starting the production of the ga
 
 **Art Style**
 It is going to be a game with realistic aesthetics or it will be more cartoonish? What are the pproportion of the buildings and the characters?
-[Image](docs/art style.jpg)
+![Image](docs/art style.jpg)
 
 **Character Art**
 The characters must be created according to the style defined, and should be differenciable from the other games.The main points are: posing, expressions, colour palette, height scale comparison, costume, and style and construction.
-[Image](docs/character style1.jpg)
+![Image](docs/character style1.jpg)
 
 ```markdown
 Syntax highlighted code block
