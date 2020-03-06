@@ -66,14 +66,14 @@ The camera has to be clearly defined, the angle, field of view, the person and t
 
 This is one of the most essential parts of the document. Here you  have to talk about colour saturation, swatches, tones, hues, and why have been choosen. They help to differentiate the sceenes, objects, characters, backgrounds, etc. Also they express emotions, and abstract things like danger.
 
-![Image] (docs/sonic colour.jpg)
+![Image](docs/sonic colour.jpg)
 
 
 **6- Atmosphere**
 
 Here you have to define the day, night and all the weather. Also define the emotions that provoque the scenes and colours.
 
-![Image] (docs/moods2.jpg)
+![Image](docs/moods2.jpg)
 
 
 
@@ -81,22 +81,22 @@ Here you have to define the day, night and all the weather. Also define the emot
 
 The UI is an aspect that can change de game a lot, from a good one to a horrible one. Here you have to define how complex will be the UI and where the elements will be placed.
 
-![Image] (docs/wow ui.jpg)
+![Image](docs/wow ui.jpg)
 
-![Image] (docs/sonic ui.jpg)
+![Image](docs/sonic ui.jpg)
 
 
 **8- Technical Guidelines**
 
 Here you have to define the format of the files, the nomenclature and which programs will be used for each task.
 
-![Image] (docs/tecguid.jpg)
+![Image](docs/tecguid.jpg)
 
 **9- References**
 
 In addition to all references you have shown in the previous points, you can add a references sections where you can show some photos showing more or less the general idea of the game.
 
-![Image] (docs/mood-board-elven.png)
+![Image](docs/mood-board-elven.png)
 
 
 ### 6. Example
