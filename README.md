@@ -101,7 +101,7 @@ In addition to all references you have shown in the previous points, you can add
 
 ### 6. Example
 
-[Dota2 - Character Art Guide] (http://wiki.polycount.com/w/images/1/1f/Dota2CharacterArtGuide.pdf)
+[Dota2 - Character Art Guide](http://wiki.polycount.com/w/images/1/1f/Dota2CharacterArtGuide.pdf)
 
 ### 7. Bibliography
 
