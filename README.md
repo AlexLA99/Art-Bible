@@ -107,12 +107,12 @@ In addition to all references you have shown in the previous points, you can add
 
 Art Bibles – What are They?
 
-https://jacobduniam.com/2017/01/03/art-bibles-what-are-they/
+[https://jacobduniam.com/2017/01/03/art-bibles-what-are-they/](https://jacobduniam.com/2017/01/03/art-bibles-what-are-they/)
 
 Color in games: An in-depth look at one of game design's most useful tools
 
-https://www.gamasutra.com/blogs/HermanTulleken/20150729/249761/Color_in_Games.php
+[https://www.gamasutra.com/blogs/HermanTulleken/20150729/249761/Color_in_Games.php](https://www.gamasutra.com/blogs/HermanTulleken/20150729/249761/Color_in_Games.php)
 
 Dota2 - Character Art Guide
 
-http://wiki.polycount.com/w/images/1/1f/Dota2CharacterArtGuide.pdf
+[http://wiki.polycount.com/w/images/1/1f/Dota2CharacterArtGuide.pdf](http://wiki.polycount.com/w/images/1/1f/Dota2CharacterArtGuide.pdf)
